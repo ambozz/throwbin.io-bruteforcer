@@ -1,3 +1,8 @@
+# INFORMATION
+This Repository will not be further Updated!
+All further updates will be made in the Original Repository:
+https://github.com/moistp1ckle/throwbin.io-bruteforcer
+
 # Throwbin.io Bruteforcer
 A small project made by https://cracked.to/Sango
 Speed improvements by https://cracked.to/amboss
